@@ -1,4 +1,4 @@
-## Hi there 👋
+Estudante do IFRN Campus Parnamirim 3/4 👋
 
 <!--
 **GustavoAndreyIF/GustavoAndreyIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
