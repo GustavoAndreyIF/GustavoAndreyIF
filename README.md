@@ -9,8 +9,8 @@ Sou estudante de Informática integrado ao ensino médio no Instituto Federal do
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&layout=compact&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&layout=compact&theme=catppuccin_mocha&locale=pt-br"/>
 </div>
 
 <div align="center">
@@ -49,8 +49,10 @@ Sou estudante de Informática integrado ao ensino médio no Instituto Federal do
 ## 🗂️ Meus repositórios
 Projetos feitos durantes as aulas.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoAndreyIF&repo=Divino-Lanches&theme=catppuccin_mocha)](https://github.com/GustavoAndreyIF/Divino-Lanches)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoAndreyIF&repo=World-Cup-JSON&theme=catppuccin_mocha)](https://github.com/GustavoAndreyIF/World-Cup-JSON)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAndreyIF&repo=Divino-Lanches&theme=catppuccin_mocha" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAndreyIF&repo=World-Cup-JSON&theme=catppuccin_mocha" />
+</div>
 
 ## 🌍 Onde me encontrar
 
