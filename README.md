@@ -9,7 +9,7 @@ Sou estudante de Informática integrado ao ensino médio no Instituto Federal do
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&layout=compact&theme=catppuccin_mocha&locale=pt-br"/>
 </div>
 
