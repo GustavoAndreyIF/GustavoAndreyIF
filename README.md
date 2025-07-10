@@ -9,8 +9,8 @@ Sou estudante de Informática integrado ao ensino médio no Instituto Federal do
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&layout=compact&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndreyIF&show_icons=true&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&layout=compact&theme=catppuccin_mocha&locale=pt-br"/>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@ Sou estudante de Informática integrado ao ensino médio no Instituto Federal do
 ## 🌐 Outras Tecnologias e Linguagens
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="38" height="38" alt="GitHub" style="filter: invert(1)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
 </div>
 
