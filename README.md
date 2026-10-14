@@ -23,14 +23,14 @@
 
 <table>
 <tr>
-<td style="width: 50%;">
+<td>
 <p>
-Atualmente, curso Informática Integrado ao Ensino Médio no IFRN (com formatura prevista para 2026).
+Atualmente, curso Informática Integrado ao Ensino Médio no IFRN </br>(com formatura prevista para 2026).
 
-Adoro criar coisas do zero: desde aplicações web e jogos educacionais em Realidade Virtual até interfaces para robôs e projetos de UI/UX Design. Fique à vontade para explorar meus repositórios! 🚀
+Adoro criar coisas do zero: desde aplicações web e jogos educacionais em </br>Realidade Virtual até interfaces para robôs e projetos de UI/UX Design. </br>Fique à vontade para explorar meus repositórios! 🚀
 </p>
 </td>
-<td style="width: 50%;">
+<td>
 
 ![GustavoAndreyIF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndreyIF&theme=react&show_icons=true&hide_border=true&layout=compact)
 </td>
